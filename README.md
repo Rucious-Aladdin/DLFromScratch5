@@ -1,10 +1,10 @@
 # DL From Scratch 5
-- last_updated: 2025-01-13
+- last_updated: 2025-01-14
 
-### 설명
+### explanation
 - jupyter-notebook only
 - 공부용 repo
-- Chapter5까지 update
+- Chapter7까지 update
 
 ### Reference
 
